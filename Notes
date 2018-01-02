@@ -1,0 +1,8 @@
+Continue working on current project but keep in mind this idea:
+
+Make User friendly way to edit the rc.xml file and make macros or mouse bindings,
+along with the other features if feasible. Essentially recreating the ObConfig.
+
+Could expand to edit other files such as the aliasedit and future discoveries. (also chron/chrontab)
+
+Just don't let it make and receive emails though. =P
